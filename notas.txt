@@ -1,0 +1,5 @@
+https://docs.microsoft.com/en-us/sql/reporting-services/report-server-web-service/accessing-the-soap-api?view=sql-server-ver15
+https://docs.microsoft.com/en-us/dotnet/api/reportservice2010.reportingservice2010.getitemdefinition?view=sqlserver-2016
+
+https://4bes.nl/2019/06/02/step-by-step-start-using-git-for-powershell/
+https://serverfault.com/questions/341199/git-as-a-backup-tool
